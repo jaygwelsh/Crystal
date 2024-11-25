@@ -1,0 +1,10 @@
+# config/config.yaml
+
+fragment_size: 1024
+node_paths:
+  - ../data/node1
+  - ../data/node2
+  - ../data/node3
+encryption_keys:
+  private_key: ../config/private_key.pem
+  public_key: ../config/public_key.pem

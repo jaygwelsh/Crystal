@@ -1,5 +1,7 @@
 # CRYSTAL (Cryptographically Reversible Yoked Storage Layer)
 
+*Please note that application is still in beta testing - use at your own risk. See License page before using application. *
+
 CRYSTAL is a secure storage system ensuring data integrity and confidentiality through reversible encryption, data fragmentation, dynamic compression, and zero-knowledge verification.
 
 ## Table of Contents

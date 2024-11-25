@@ -1,6 +1,6 @@
 # CRYSTAL (Cryptographically Reversible Yoked Storage Layer)
 
-CRYSTAL is a secure storage prototype ensuring data integrity and confidentiality through reversible encryption, data fragmentation, dynamic compression, and zero-knowledge verification.
+CRYSTAL is a secure storage prototype ensuring data integrity and confidentiality through reversible encryption, data fragmentation, dynamic compression, and zero-knowledge verification. Prototype considered ideal for small-to-medium sized datasets (<1 GB).
 
 ## Table of Contents
 

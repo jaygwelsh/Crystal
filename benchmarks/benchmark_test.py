@@ -87,7 +87,7 @@ async def benchmark():
         dataset_checksum = calculate_checksum(data)
         # Set replication factor based on dataset size
         if data_size > 1024 * 10000:  # > 10 MB
-            replication_factor = 3
+            replication_factor = 5
         else:
             replication_factor = 2
         assembly_line = AssemblyLine(NODE_PATHS, dataset_checksum, fragment_size, replication_factor=replication_factor)
